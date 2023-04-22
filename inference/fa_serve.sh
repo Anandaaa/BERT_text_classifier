@@ -1,0 +1,1 @@
+python3 -m uvicorn fa_server:app --reload
